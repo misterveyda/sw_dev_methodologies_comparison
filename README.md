@@ -1,2 +1,9 @@
-# sw_dev_methodologies_comparison
-Agile Vs Waterfall Comparison App
+# Software Development Methodologies Comparison
+
+A comparative study of Agile and Waterfall development approaches.
+
+## Evaluation
+- Development speed
+- Change management
+- Product quality
+
